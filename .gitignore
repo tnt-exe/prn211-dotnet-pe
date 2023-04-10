@@ -1,0 +1,7 @@
+# visual studio user files
+**/.vs
+# compile binary and object files
+**/bin/
+**/obj/
+# user configuration files
+**.user
