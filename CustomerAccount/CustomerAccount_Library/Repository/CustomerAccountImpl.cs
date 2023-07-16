@@ -1,10 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using CustomerAccount_Library.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CustomerAccount_Library.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace CustomerAccount_Library.Repository
 {

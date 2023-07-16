@@ -1,10 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using BankAccount_Library.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BankAccount_Library.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BankAccount_Library.Repository
 {

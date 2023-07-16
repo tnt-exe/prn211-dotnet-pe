@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace CustomerAccount_Library.Models
+﻿namespace CustomerAccount_Library.Models
 {
     public partial class Customer
     {

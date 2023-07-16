@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace PaperJournal_Library.Models
+﻿namespace PaperJournal_Library.Models
 {
     public partial class JournalInfo
     {

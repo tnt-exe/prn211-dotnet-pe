@@ -1,14 +1,6 @@
 ﻿using BankAccount_Library.Models;
 using BankAccount_Library.Repository;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace BankAccount_Form
 {
@@ -80,7 +72,7 @@ namespace BankAccount_Form
                 btnUpdate.Enabled = true;
             }
         }
-        
+
         private void frmBankAccountManagement_Load(object sender, EventArgs e)
         {
             arrAccountType = _accountType.GetAllAccountType()
@@ -114,7 +106,7 @@ namespace BankAccount_Form
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             var currentAccId = dgvList.CurrentRow.Cells[0].Value;
-            
+
             var accountid = txtAccId.Text;
             var accountname = txtAccName.Text;
             var opendate = dtpOpenDate.Value;
@@ -195,7 +187,7 @@ namespace BankAccount_Form
                         MessageBox.Show("Add failed (check if Account ID is duplicate)", "Notification");
                         return;
                     }
-                    
+
                 }
             }
         }

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace BankAccount_Library.Models
+﻿namespace BankAccount_Library.Models
 {
     public partial class AccountType
     {
