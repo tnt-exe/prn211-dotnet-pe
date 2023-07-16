@@ -1,5 +1,5 @@
-﻿using CustomerSolution_Library.Models;
-using CustomerSolution_Library.Repository;
+﻿using CustomerAccount_Library.Models;
+using CustomerAccount_Library.Repository;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CustomerSolution_Form
+namespace CustomerAccount_Form
 {
     public partial class frmAccountManagement : Form
     {

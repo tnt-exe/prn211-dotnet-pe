@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.Extensions.Configuration;
 
-namespace CustomerSolution_Library.Models
+namespace CustomerAccount_Library.Models
 {
     public partial class CustomerAccountsContext : DbContext
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CustomerSolution_Library.Models
+namespace CustomerAccount_Library.Models
 {
     public partial class User
     {

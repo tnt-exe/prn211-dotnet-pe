@@ -1,4 +1,4 @@
-namespace CustomerSolution_Form
+namespace CustomerAccount_Form
 {
     internal static class Program
     {
