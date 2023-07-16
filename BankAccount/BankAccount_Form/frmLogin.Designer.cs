@@ -1,4 +1,4 @@
-﻿namespace BankSolution_Form
+﻿namespace BankAccount_Form
 {
     partial class frmLogin
     {

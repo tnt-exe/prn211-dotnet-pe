@@ -1,6 +1,6 @@
-using BankSolution_Form;
+using BankAccount_Form;
 
-namespace BankSolution_Form
+namespace BankAccount_Form
 {
     internal static class Program
     {

@@ -1,4 +1,4 @@
-﻿using BankSolution_Library.Repository;
+﻿using BankAccount_Library.Repository;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BankSolution_Form
+namespace BankAccount_Form
 {
     public partial class frmLogin : Form
     {

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.Extensions.Configuration;
 
-namespace BankSolution_Library.Models
+namespace BankAccount_Library.Models
 {
     public partial class BankAccountTypeContext : DbContext
     {
@@ -34,7 +34,7 @@ namespace BankSolution_Library.Models
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", true, true)
                 .Build();
-            var strConn = config["ConnectionStrings:CustomerAccountsDB"];
+            var strConn = config["ConnectionStrings:BankAccountsTypeDB"];
             return strConn;
         }
 

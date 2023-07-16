@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankSolution_Form", "BankSolution_Form\BankSolution_Form.csproj", "{1572663A-AAA0-4F55-8CF0-4C746A03BB02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount_Form", "BankAccount_Form\BankAccount_Form.csproj", "{1572663A-AAA0-4F55-8CF0-4C746A03BB02}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankSolution_Library", "BankSolution_Library\BankSolution_Library.csproj", "{15C7DE04-5287-488F-BE79-DDCAD47925F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount_Library", "BankAccount_Library\BankAccount_Library.csproj", "{15C7DE04-5287-488F-BE79-DDCAD47925F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
