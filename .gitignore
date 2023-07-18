@@ -1,5 +1,6 @@
 # visual studio user files
 **/.vs
+**/.vscode
 # compile binary and object files
 **/bin/
 **/obj/
